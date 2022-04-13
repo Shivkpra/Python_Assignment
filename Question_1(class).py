@@ -1,5 +1,5 @@
-class Second:  # class
-  def __init__(self,hr):
+class Second:                                        # class
+  def __init__(self,hr):                             #cuns   
     self.hr=hr
 
   def second(self,hr):
